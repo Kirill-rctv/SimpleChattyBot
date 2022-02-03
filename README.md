@@ -3,9 +3,10 @@
 a simple console chat bot
 
 ## How to run
-```
-$ java -jar main.jar
-```
+Compile ``` $ kotlinc main.kt -include-runtime -d main.jar ```
+
+Start ``` $ java -jar main.jar ```
+
 ## Example 
 ```
 Hello! My name is Aid.
